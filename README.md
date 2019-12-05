@@ -1,3 +1,3 @@
 # FL-12
 
-Free Front End course by Epam
+Free Front End course
